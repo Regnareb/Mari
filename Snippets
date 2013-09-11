@@ -1,0 +1,91 @@
+"""                                                                                 """
+""" Print all actions (name of actions can change throught different Mari versions) """
+"""                                                                                 """
+
+print "\n".join(mari.actions.list())
+
+
+
+
+"""                                             """
+""" Cut and paste a layer (Break shared layers) """
+"""                                             """
+
+sharedLayer.setSelected(True)
+
+cutLayer = mari.actions.get('/Mari/Layers/Cut')
+cutLayer.trigger()
+      
+destinationChannel.makeCurrent()
+destinationLayer.setSelected(True)
+      
+pasteLayer = mari.actions.get('/Mari/Layers/Paste')
+pasteLayer.trigger()
+
+
+
+
+
+"""                                   """
+""" Duplicate and flatten the Channel """
+"""                                   """
+
+currentGeo = mari.geo.current()
+currentChan = currentGeo.currentChannel()
+currentChanName = currentChan.name()
+
+currentGeo.createDuplicateChannel(currentChan)
+
+currentChan.flatten()
+currentChan.setName(currentChanName + "_flattened")
+
+
+
+
+
+"""                         """
+""" Threading and Callbacks """
+"""                         """
+
+import time
+from threading import Thread
+ 
+def workerFunc(i):
+    print "Hello from Thread " + str(i)
+    time.sleep(1)
+    print "Goodbye from Thread " + str(i)
+ 
+print "Starting Main Thread"
+ 
+thread1 = Thread(target=workerFunc, args=(1,))
+thread2 = Thread(target=workerFunc, args=(2,))
+ 
+thread1.start()
+thread2.start()
+ 
+while thread1.is_alive() or thread2.is_alive():
+    # Could process stuff processed from a thread here
+    mari.app.processEvents()
+ 
+print "Finishing Main Thread"
+
+
+
+
+"""                        """
+""" Resize Channels Images """
+"""                        """
+
+import mari
+from PythonQt.QtCore import QSize
+
+size = 2048
+currentGeo = mari.geo.current()
+listChannel = currentGeo.channelList()
+
+for channel in listChannel:
+    channel.makeCurrent()
+    listSetImage = currentGeo.currentImageSet().imageList()
+    for image in listSetImage:
+        image.resize(QSize(size,size))
+        
