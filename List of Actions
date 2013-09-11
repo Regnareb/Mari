@@ -1,0 +1,701 @@
+
+/Mari/Actions/About
+/Mari/Actions/Default Layout
+/Mari/Actions/Display Properties
+/Mari/Actions/ForceQuit
+/Mari/Actions/HUD Manager
+/Mari/Actions/Help Index
+/Mari/Actions/Load Layout
+/Mari/Actions/Next Tab
+/Mari/Actions/Next View
+/Mari/Actions/Plugins
+/Mari/Actions/Preferences
+/Mari/Actions/Previous Tab
+/Mari/Actions/Previous View
+/Mari/Actions/Quit
+/Mari/Actions/Redo
+/Mari/Actions/Run Script
+/Mari/Actions/Save Layout
+/Mari/Actions/Shortcuts
+/Mari/Actions/Toggle Palettes Visibility
+/Mari/Actions/Toolbars
+/Mari/Actions/Undo
+/Mari/Animation/Add Keyframe
+/Mari/Animation/Fastforward Animation
+/Mari/Animation/Rewind Animation
+/Mari/Animation/Step Backwards
+/Mari/Animation/Step Forwards
+/Mari/Animation/Toggle Animation
+/Mari/Cache/Cache Location Setup
+/Mari/Canvas/Bake
+/Mari/Canvas/Bake and Clear
+/Mari/Canvas/Camera/Camera Bottom
+/Mari/Canvas/Camera/Camera Front
+/Mari/Canvas/Camera/Camera Left
+/Mari/Canvas/Camera/Camera Rear
+/Mari/Canvas/Camera/Camera Right
+/Mari/Canvas/Camera/Camera Top
+/Mari/Canvas/Camera/Focus
+/Mari/Canvas/Camera/Jump To
+/Mari/Canvas/Camera/Load Camera
+/Mari/Canvas/Camera/Ortho Camera
+/Mari/Canvas/Camera/Perspective Camera
+/Mari/Canvas/Camera/Reset Camera
+/Mari/Canvas/Camera/UV Camera
+/Mari/Canvas/Camera/View All
+/Mari/Canvas/Display/Toggle UvImage
+/Mari/Canvas/Display/Toggle Whole Patch Project
+/Mari/Canvas/Display/Toggle Wireframe
+/Mari/Canvas/Projection/Create Projector
+/Mari/Canvas/Projection/Diagnostic Turntable
+/Mari/Canvas/Projection/Import Image
+/Mari/Canvas/Projection/Load Projector
+/Mari/Canvas/Projection/Make Projector Current
+/Mari/Canvas/Projection/Project
+/Mari/Canvas/Projection/Quick Project Front
+/Mari/Canvas/Projection/Quick Project Through
+/Mari/Canvas/Projection/Quick Projection Settings
+/Mari/Canvas/Projection/Quick Turntable
+/Mari/Canvas/Projection/Quick Unproject
+/Mari/Canvas/Projection/Remove Projector
+/Mari/Canvas/Projection/Render Turntable
+/Mari/Canvas/Projection/Save All Projectors
+/Mari/Canvas/Projection/Save Projector
+/Mari/Canvas/Projection/Unproject
+/Mari/Canvas/Projection/Update Global Settings From Projector
+/Mari/Canvas/Projection/Update Only Masks From Projector
+/Mari/Canvas/Screenshot Settings
+/Mari/Canvas/Selection/Face Mode
+/Mari/Canvas/Selection/Object Mode
+/Mari/Canvas/Selection/Patch Mode
+/Mari/Canvas/Take Screenshot
+/Mari/Channels/1024 x 1024
+/Mari/Channels/16384 x 16384
+/Mari/Channels/2048 x 2048
+/Mari/Channels/256 x 256
+/Mari/Channels/32768 x 32768
+/Mari/Channels/4096 x 4096
+/Mari/Channels/512 x 512
+/Mari/Channels/8192 x 8192
+/Mari/Channels/Add Channel
+/Mari/Channels/Convert Channel
+/Mari/Channels/Copy
+/Mari/Channels/Cut
+/Mari/Channels/Flatten
+/Mari/Channels/Lock All Channels
+/Mari/Channels/Lock Channel
+/Mari/Channels/Next Channel
+/Mari/Channels/Paste
+/Mari/Channels/Previous Channel
+/Mari/Channels/Remove Channel
+/Mari/Channels/Toggle Channels
+/Mari/Channels/UnLock Channel
+/Mari/Channels/Unlock All Channels
+/Mari/Channels/Views/Channel
+/Mari/Channels/Views/Layer
+/Mari/Channels/Views/LayerAndBelow
+/Mari/Channels/Views/Paint
+/Mari/Color/Background
+/Mari/Color/Foreground
+/Mari/Geometry/Add Object
+/Mari/Geometry/Add Version
+/Mari/Geometry/Ambient Occlusion
+/Mari/Geometry/Patches/Bleed Patch Edges
+/Mari/Geometry/Patches/Hide Selected Patches
+/Mari/Geometry/Patches/Hide Unselected Patches
+/Mari/Geometry/Patches/Link Selected Patch Images
+/Mari/Geometry/Patches/Lock All Patches
+/Mari/Geometry/Patches/Lock Selected Patches
+/Mari/Geometry/Patches/Lock Unselected Patches
+/Mari/Geometry/Patches/Select All Patches
+/Mari/Geometry/Patches/Select Invert Patches
+/Mari/Geometry/Patches/Select Linked Patch Images
+/Mari/Geometry/Patches/Select None Patches
+/Mari/Geometry/Patches/Select Visible Patches
+/Mari/Geometry/Patches/Show All Patches
+/Mari/Geometry/Patches/Show Selected Patches
+/Mari/Geometry/Patches/Show Unselected Patches
+/Mari/Geometry/Patches/Toggle Hidden
+/Mari/Geometry/Patches/Toggle Visibility
+/Mari/Geometry/Patches/UV Mask to Image Manager
+/Mari/Geometry/Patches/UV Wireframe to Image Manager
+/Mari/Geometry/Patches/Unlink All Linked Patch Images
+/Mari/Geometry/Patches/Unlink Selected Patch Images
+/Mari/Geometry/Patches/Unlock All Patches
+/Mari/Geometry/Patches/Unlock Selected Patches
+/Mari/Geometry/Patches/Unlock Unselected Patches
+/Mari/Geometry/Remove Object
+/Mari/Geometry/Remove Version
+/Mari/Geometry/Rename Version
+/Mari/Geometry/Selection Group/Create Selection Group
+/Mari/Geometry/Selection Group/Hide Selection Group
+/Mari/Geometry/Selection Group/Lock Selection Group
+/Mari/Geometry/Selection Group/Remove Selection Group
+/Mari/Geometry/Selection Group/Select Selection Group
+/Mari/Geometry/Selection Group/Show Selection Group
+/Mari/Geometry/Selection Group/Unlock Selection Group
+/Mari/Geometry/Selection/Hide Selected
+/Mari/Geometry/Selection/Hide Unselected
+/Mari/Geometry/Selection/Lock All
+/Mari/Geometry/Selection/Lock Selected
+/Mari/Geometry/Selection/Lock Unselected
+/Mari/Geometry/Selection/Select All
+/Mari/Geometry/Selection/Select Invert
+/Mari/Geometry/Selection/Select None
+/Mari/Geometry/Selection/Select Visible
+/Mari/Geometry/Selection/Show All
+/Mari/Geometry/Selection/Show Entire Object
+/Mari/Geometry/Selection/Show Selected
+/Mari/Geometry/Selection/Show Unselected
+/Mari/Geometry/Selection/Unlock All
+/Mari/Geometry/Selection/Unlock Entire Object
+/Mari/Geometry/Selection/Unlock Selected
+/Mari/Geometry/Selection/Unlock Unselected
+/Mari/Gpu/ToggleTessellation
+/Mari/Help/HelpMenu/Getting Started
+/Mari/Help/HelpMenu/Reference Guide
+/Mari/Help/HelpMenu/Release Notes
+/Mari/Help/HelpMenu/Training and Tutorials
+/Mari/Help/HelpMenu/User Guide
+/Mari/Layers/Add Empty Layer Group
+/Mari/Layers/Add New Layer
+/Mari/Layers/Adjustment Stack/Bake Adjustment Stack
+/Mari/Layers/Adjustment Stack/Brightness
+/Mari/Layers/Adjustment Stack/Brightness Lookup
+/Mari/Layers/Adjustment Stack/Clamp
+/Mari/Layers/Adjustment Stack/Color Balance
+/Mari/Layers/Adjustment Stack/Color Lookup
+/Mari/Layers/Adjustment Stack/Color Switch
+/Mari/Layers/Adjustment Stack/Contrast
+/Mari/Layers/Adjustment Stack/Copy Channel
+/Mari/Layers/Adjustment Stack/Disable Adjustment Stack
+/Mari/Layers/Adjustment Stack/Enable Adjustment Stack
+/Mari/Layers/Adjustment Stack/Gamma
+/Mari/Layers/Adjustment Stack/Grade
+/Mari/Layers/Adjustment Stack/HSL
+/Mari/Layers/Adjustment Stack/HSV
+/Mari/Layers/Adjustment Stack/Height As Normal
+/Mari/Layers/Adjustment Stack/Hue Shift
+/Mari/Layers/Adjustment Stack/Invert
+/Mari/Layers/Adjustment Stack/Levels
+/Mari/Layers/Adjustment Stack/Luminosity
+/Mari/Layers/Adjustment Stack/Premultiply Alpha
+/Mari/Layers/Adjustment Stack/Remove Adjustment Stack
+/Mari/Layers/Adjustment Stack/Saturation
+/Mari/Layers/Adjustment Stack/Scale
+/Mari/Layers/Adjustment Stack/Set Value
+/Mari/Layers/Adjustment Stack/Shuffle
+/Mari/Layers/Adjustment Stack/Tangent To Screen
+/Mari/Layers/Adjustment Stack/Tangent To World
+/Mari/Layers/Adjustment Stack/sRGB2Linear
+/Mari/Layers/Adjustment/Brightness
+/Mari/Layers/Adjustment/Brightness Lookup
+/Mari/Layers/Adjustment/Clamp
+/Mari/Layers/Adjustment/Color Balance
+/Mari/Layers/Adjustment/Color Lookup
+/Mari/Layers/Adjustment/Color Switch
+/Mari/Layers/Adjustment/Contrast
+/Mari/Layers/Adjustment/Copy Channel
+/Mari/Layers/Adjustment/Gamma
+/Mari/Layers/Adjustment/Grade
+/Mari/Layers/Adjustment/HSL
+/Mari/Layers/Adjustment/HSV
+/Mari/Layers/Adjustment/Height As Normal
+/Mari/Layers/Adjustment/Hue Shift
+/Mari/Layers/Adjustment/Invert
+/Mari/Layers/Adjustment/Levels
+/Mari/Layers/Adjustment/Luminosity
+/Mari/Layers/Adjustment/Premultiply Alpha
+/Mari/Layers/Adjustment/Saturation
+/Mari/Layers/Adjustment/Scale
+/Mari/Layers/Adjustment/Set Value
+/Mari/Layers/Adjustment/Shuffle
+/Mari/Layers/Adjustment/Tangent To Screen
+/Mari/Layers/Adjustment/Tangent To World
+/Mari/Layers/Adjustment/sRGB2Linear
+/Mari/Layers/Bake Mask
+/Mari/Layers/Cache Layers
+/Mari/Layers/Cache Up To Here
+/Mari/Layers/Convert To Paintable
+/Mari/Layers/Copy
+/Mari/Layers/Cut
+/Mari/Layers/Disable Mask
+/Mari/Layers/Enable Mask
+/Mari/Layers/Fill/Background
+/Mari/Layers/Fill/Black
+/Mari/Layers/Fill/Foreground
+/Mari/Layers/Fill/Gray
+/Mari/Layers/Fill/Transparent
+/Mari/Layers/Fill/UV Mask
+/Mari/Layers/Fill/White
+/Mari/Layers/Fill/Wireframe
+/Mari/Layers/Flatten Layer Group
+/Mari/Layers/Flatten Mask Group
+/Mari/Layers/Group Layers
+/Mari/Layers/Make Mask Group
+/Mari/Layers/Make Shared Channel Current
+/Mari/Layers/Mask/Copy
+/Mari/Layers/Mask/Cut
+/Mari/Layers/Mask/From Alpha
+/Mari/Layers/Mask/Hide All
+/Mari/Layers/Mask/Paste
+/Mari/Layers/Mask/Reveal All
+/Mari/Layers/Merge Layers
+/Mari/Layers/Paste
+/Mari/Layers/Procedural/Fractal/Cloud
+/Mari/Layers/Procedural/Fractal/Turbulence
+/Mari/Layers/Procedural/Misc/Flow
+/Mari/Layers/Procedural/Misc/Oil
+/Mari/Layers/Procedural/Noise/Cellular
+/Mari/Layers/Procedural/Noise/Perlin
+/Mari/Layers/Procedural/Noise/Squiggle
+/Mari/Layers/Procedural/Pattern/Cube
+/Mari/Layers/Procedural/Pattern/Object Space Linear Gradient
+/Mari/Layers/Procedural/Pattern/Sphere
+/Mari/Layers/Procedural/Pattern/Tiled
+/Mari/Layers/Procedural/Pattern/UV Grid
+/Mari/Layers/Procedural/Pattern/UV Linear Gradient
+/Mari/Layers/Procedural/Plant/Wood
+/Mari/Layers/Remove Layers
+/Mari/Layers/Remove Mask
+/Mari/Layers/Secondary Adjustment/Brightness
+/Mari/Layers/Secondary Adjustment/Brightness Lookup
+/Mari/Layers/Secondary Adjustment/Clamp
+/Mari/Layers/Secondary Adjustment/Color Balance
+/Mari/Layers/Secondary Adjustment/Color Lookup
+/Mari/Layers/Secondary Adjustment/Color Switch
+/Mari/Layers/Secondary Adjustment/Contrast
+/Mari/Layers/Secondary Adjustment/Copy Channel
+/Mari/Layers/Secondary Adjustment/Gamma
+/Mari/Layers/Secondary Adjustment/Grade
+/Mari/Layers/Secondary Adjustment/HSL
+/Mari/Layers/Secondary Adjustment/HSV
+/Mari/Layers/Secondary Adjustment/Height As Normal
+/Mari/Layers/Secondary Adjustment/Hue Shift
+/Mari/Layers/Secondary Adjustment/Invert
+/Mari/Layers/Secondary Adjustment/Levels
+/Mari/Layers/Secondary Adjustment/Luminosity
+/Mari/Layers/Secondary Adjustment/Premultiply Alpha
+/Mari/Layers/Secondary Adjustment/Remove Secondary Adjustment
+/Mari/Layers/Secondary Adjustment/Saturation
+/Mari/Layers/Secondary Adjustment/Scale
+/Mari/Layers/Secondary Adjustment/Set Value
+/Mari/Layers/Secondary Adjustment/Shuffle
+/Mari/Layers/Secondary Adjustment/Tangent To Screen
+/Mari/Layers/Secondary Adjustment/Tangent To World
+/Mari/Layers/Secondary Adjustment/sRGB2Linear
+/Mari/Layers/Shaders/Add New Shader
+/Mari/Layers/Shaders/AddShader/Beckman
+/Mari/Layers/Shaders/AddShader/Blinn
+/Mari/Layers/Shaders/AddShader/Choose Diffuse And Specular
+/Mari/Layers/Shaders/AddShader/Cook Torrance
+/Mari/Layers/Shaders/AddShader/Flat
+/Mari/Layers/Shaders/AddShader/Phong
+/Mari/Layers/Shaders/AddShader/Standard Lighting
+/Mari/Layers/Shaders/Copy
+/Mari/Layers/Shaders/Cut
+/Mari/Layers/Shaders/Duplicate Shader
+/Mari/Layers/Shaders/Paste
+/Mari/Layers/Shaders/Recreate System Shaders
+/Mari/Layers/Shaders/Remove Shader
+/Mari/Layers/Share Layer
+/Mari/Layers/Share Layers As Channel
+/Mari/Layers/Uncache Layers
+/Mari/Layers/Uncache Up To Here
+/Mari/Layers/Unshare Layer
+/Mari/Misc/Debug Visualization of Ptex Layout
+/Mari/Misc/Dump Actions
+/Mari/Misc/License
+/Mari/OpenColorIO/Clear LUT
+/Mari/OpenColorIO/Select Config
+/Mari/OpenColorIO/Select LUT
+/Mari/OpenColorIO/Toggle Color Management
+/Mari/Painter/Clear Mode
+/Mari/Painter/Clear Painting
+/Mari/Painter/Filters/Add Noise
+/Mari/Painter/Filters/Blur
+/Mari/Painter/Filters/Brightness
+/Mari/Painter/Filters/Clamp
+/Mari/Painter/Filters/Color Correction
+/Mari/Painter/Filters/Color Curves
+/Mari/Painter/Filters/Color Switches
+/Mari/Painter/Filters/Contrast
+/Mari/Painter/Filters/Copy Channel
+/Mari/Painter/Filters/Dilate
+/Mari/Painter/Filters/Edge Detect
+/Mari/Painter/Filters/Emboss
+/Mari/Painter/Filters/Gamma
+/Mari/Painter/Filters/Gaussian
+/Mari/Painter/Filters/High Pass
+/Mari/Painter/Filters/Hue
+/Mari/Painter/Filters/Invert
+/Mari/Painter/Filters/Levels
+/Mari/Painter/Filters/Luminosity
+/Mari/Painter/Filters/Premultiply Alpha
+/Mari/Painter/Filters/Sharpen
+/Mari/Painter/Filters/Soften
+/Mari/Painter/Filters/Tone Mapping
+/Mari/Painter/Filters/sRGB To Linear
+/Mari/Painter/Import Brushes
+/Mari/Painter/Last Blend Mode
+/Mari/Painter/Load Painting
+/Mari/Painter/Mirror X
+/Mari/Painter/Mirror XY
+/Mari/Painter/Mirror Y
+/Mari/Painter/Next Blend Mode
+/Mari/Painter/No Mirror
+/Mari/Painter/Previous Blend Mode
+/Mari/Painter/Remake Icons
+/Mari/Painter/Reset Blend Mode
+/Mari/Painter/Save Painting
+/Mari/Painter/Set Colors to Black And White
+/Mari/Painter/Swap foreground and background
+/Mari/Painter/Toggle Cursor Type
+/Mari/Painter/Toggle Edge Mask
+/Mari/Painter/Toggle Fractal Noise Mask
+/Mari/Painter/Toggle Marquee Selection Mask
+/Mari/Painter/Toggle Show Painting
+/Mari/Painter/Unproject
+/Mari/Palettes/Brush Editor
+/Mari/Palettes/Channels
+/Mari/Palettes/Color Manager
+/Mari/Palettes/Colors
+/Mari/Palettes/HSV
+/Mari/Palettes/History View
+/Mari/Palettes/Image Manager
+/Mari/Palettes/Layers
+/Mari/Palettes/Lights
+/Mari/Palettes/Objects
+/Mari/Palettes/Painting
+/Mari/Palettes/Patches
+/Mari/Palettes/PixelAnalyzer
+/Mari/Palettes/Play Controls
+/Mari/Palettes/Projection
+/Mari/Palettes/Projectors
+/Mari/Palettes/Python Console
+/Mari/Palettes/Rescue All Floating Palettes
+/Mari/Palettes/Selection Groups
+/Mari/Palettes/Shaders
+/Mari/Palettes/Shelf
+/Mari/Palettes/Snapshots
+/Mari/Palettes/Tool Properties
+/Mari/Project/Close
+/Mari/Project/Create Example Project
+/Mari/Project/Lighting/Basic
+/Mari/Project/Lighting/Disable Lights
+/Mari/Project/Lighting/Enable Lights
+/Mari/Project/Lighting/Fix All Lights to Camera
+/Mari/Project/Lighting/Fix All Lights to Scene
+/Mari/Project/Lighting/Flat
+/Mari/Project/Lighting/Full
+/Mari/Project/Lighting/Reset Lights
+/Mari/Project/Lighting/Shadows
+/Mari/Project/New
+/Mari/Project/Project Explorer/1024 x 1024
+/Mari/Project/Project Explorer/16384 x 16384
+/Mari/Project/Project Explorer/2048 x 2048
+/Mari/Project/Project Explorer/256 x 256
+/Mari/Project/Project Explorer/32768 x 32768
+/Mari/Project/Project Explorer/4096 x 4096
+/Mari/Project/Project Explorer/512 x 512
+/Mari/Project/Project Explorer/8192 x 8192
+/Mari/Project/Project Explorer/Channel Presets
+/Mari/Project/Project Explorer/Copy Indexes to Clipboard
+/Mari/Project/Project Explorer/Copy Textures
+/Mari/Project/Project Explorer/Create Patch Selection Set
+/Mari/Project/Project Explorer/Double Size
+/Mari/Project/Project Explorer/Export All Channels
+/Mari/Project/Project Explorer/Export All Channels Flattened
+/Mari/Project/Project Explorer/Export All Layers
+/Mari/Project/Project Explorer/Export All Layers Flattened
+/Mari/Project/Project Explorer/Export Current Channel
+/Mari/Project/Project Explorer/Export Current Channel Flattened
+/Mari/Project/Project Explorer/Export Current Layer
+/Mari/Project/Project Explorer/Export Current Layer Flattened
+/Mari/Project/Project Explorer/Export Current Object
+/Mari/Project/Project Explorer/Export Current Object Flattened
+/Mari/Project/Project Explorer/Export Everything
+/Mari/Project/Project Explorer/Export Everything Flattened
+/Mari/Project/Project Explorer/Export Selected Layers
+/Mari/Project/Project Explorer/Export Selected Layers Flattened
+/Mari/Project/Project Explorer/Extract Selected
+/Mari/Project/Project Explorer/Flip Horizontal
+/Mari/Project/Project Explorer/Flip Vertical
+/Mari/Project/Project Explorer/Halve Size
+/Mari/Project/Project Explorer/Import into Layer
+/Mari/Project/Project Explorer/Import into Layer Stack
+/Mari/Project/Project Explorer/Import into New Channel
+/Mari/Project/Project Explorer/Mirror Bottom to Top
+/Mari/Project/Project Explorer/Mirror Left to Right
+/Mari/Project/Project Explorer/Mirror Right to Left
+/Mari/Project/Project Explorer/Mirror Top to Bottom
+/Mari/Project/Project Explorer/Quick Copy
+/Mari/Project/Project Explorer/Quick Paste
+/Mari/Project/Project Explorer/Rotate 180
+/Mari/Project/Project Explorer/Rotate 90 CCW
+/Mari/Project/Project Explorer/Rotate 90 CW
+/Mari/Project/Project Explorer/Select Range
+/Mari/Project/Rename
+/Mari/Project/Save
+/Mari/Projection/Projection Through
+/Mari/Projection/Toggle Mask Preview
+/Mari/Projection/Toggle Mask Preview Enabled
+/Mari/Projection/Toggle Masking
+/Mari/Ptex/Double Face Resolution
+/Mari/Ptex/Fill Faces Background
+/Mari/Ptex/Fill Faces Foreground
+/Mari/Ptex/Halve Face Resolution
+/Mari/Ptex/Set Face Resolution
+/Mari/Ptex/World Space Face Resolution
+/Mari/Scripts/1D Filter Example
+/Mari/Scripts/2D Filter Example
+/Mari/Scripts/3D Filter Example
+/Mari/Scripts/3D Filter Update
+/Mari/Scripts/API Overview
+/Mari/Scripts/Asset Management
+/Mari/Scripts/Bake on New Layer
+/Mari/Scripts/C API/Documentation
+/Mari/Scripts/C API/Open Examples Folder
+/Mari/Scripts/Change Camera to Orthographic
+/Mari/Scripts/Change Camera to Perspective
+/Mari/Scripts/Change Current Projector
+/Mari/Scripts/Command Port
+/Mari/Scripts/Convert Channel
+/Mari/Scripts/Copy Patch Links
+/Mari/Scripts/Create Blacksmith Project
+/Mari/Scripts/Create Layers
+/Mari/Scripts/Create Project
+/Mari/Scripts/Create Project And Import
+/Mari/Scripts/Create Projector
+/Mari/Scripts/Create Shaders
+/Mari/Scripts/Create Triplanar Projectors
+/Mari/Scripts/Create Vector Channels
+/Mari/Scripts/Custom LUT Filter Example
+/Mari/Scripts/Delete All Snapshots
+/Mari/Scripts/Export Channels
+/Mari/Scripts/Export Shelf
+/Mari/Scripts/Export for Maya
+/Mari/Scripts/File LUT Filter Example
+/Mari/Scripts/Full Screen
+/Mari/Scripts/Link Channel Changes
+/Mari/Scripts/Make Tools Menu
+/Mari/Scripts/Manage Snapshots
+/Mari/Scripts/Move to Camera Position
+/Mari/Scripts/NukeBridge/Help
+/Mari/Scripts/NukeBridge/Import Projection
+/Mari/Scripts/NukeBridge/Launch Nuke
+/Mari/Scripts/NukeBridge/export/All Projectors
+/Mari/Scripts/NukeBridge/export/Current Projector
+/Mari/Scripts/NukeBridge/export/Current View
+/Mari/Scripts/NukeBridge/export/Projection Texture
+/Mari/Scripts/NukeBridge/export/UV Texture(s) (All Channels)
+/Mari/Scripts/NukeBridge/export/UV Texture(s) (Current Channel)
+/Mari/Scripts/NukeBridge/export/Unique Projection Texture
+/Mari/Scripts/NukeBridge/socket/All Projectors
+/Mari/Scripts/NukeBridge/socket/Current Projector
+/Mari/Scripts/NukeBridge/socket/Current View
+/Mari/Scripts/NukeBridge/socket/Projection Texture
+/Mari/Scripts/NukeBridge/socket/UV Texture(s) (All Channels)
+/Mari/Scripts/NukeBridge/socket/UV Texture(s) (Current Channel)
+/Mari/Scripts/NukeBridge/socket/Unique Projection Texture
+/Mari/Scripts/Paint Buffer
+/Mari/Scripts/Paste Patch Links
+/Mari/Scripts/Print All Camera Info
+/Mari/Scripts/Print All Channel Info
+/Mari/Scripts/Print All Layer Info
+/Mari/Scripts/Print All Lights Info
+/Mari/Scripts/Print All Projectors Info
+/Mari/Scripts/Print All Shader Info
+/Mari/Scripts/Print Camera Info
+/Mari/Scripts/Print Current Light Info
+/Mari/Scripts/Print Current Projector Info
+/Mari/Scripts/Python/Documentation
+/Mari/Scripts/Python/Open Examples Folder
+/Mari/Scripts/Readme
+/Mari/Scripts/Reimport Current Paintable Layer
+/Mari/Scripts/Resource Info
+/Mari/Scripts/Restore Filter Stack
+/Mari/Scripts/Setup Vector Brush
+/Mari/Scripts/Show All Geo Images
+/Mari/Scripts/Show Console
+/Mari/Scripts/Snapshot All Channels
+/Mari/Scripts/Snapshot Current Channel
+/Mari/Shelves/Basic Brushes/0
+/Mari/Shelves/Basic Brushes/100
+/Mari/Shelves/Basic Brushes/25
+/Mari/Shelves/Basic Brushes/50
+/Mari/Shelves/Basic Brushes/75
+/Mari/Shelves/Basic Brushes/Default
+/Mari/Shelves/Basic Brushes/Hard0
+/Mari/Shelves/Basic Brushes/Hard100
+/Mari/Shelves/Basic Brushes/Hard25
+/Mari/Shelves/Basic Brushes/Hard50
+/Mari/Shelves/Basic Brushes/Hard75
+/Mari/Shelves/Basic Brushes/Pore
+/Mari/Shelves/Basic Brushes/SUPERsoft
+/Mari/Shelves/Basic Brushes/fatTip
+/Mari/Shelves/Basic Brushes/feltTip
+/Mari/Shelves/Basic Brushes/flowLinear
+/Mari/Shelves/Basic Brushes/lambertTip
+/Mari/Shelves/Basic Brushes/linear
+/Mari/Shelves/Basic Brushes/one
+/Mari/Shelves/Basic Brushes/sloflowSOFT
+/Mari/Shelves/Basic Brushes/worm
+/Mari/Shelves/Brad's New Brushes/Ondine
+/Mari/Shelves/Brad's New Brushes/bubbleBust
+/Mari/Shelves/Brad's New Brushes/crackedFlesh
+/Mari/Shelves/Brad's New Brushes/curlyQ
+/Mari/Shelves/Brad's New Brushes/dallasD
+/Mari/Shelves/Brad's New Brushes/featherDuster
+/Mari/Shelves/Brad's New Brushes/furryStroke
+/Mari/Shelves/Brad's New Brushes/furryStroke_1
+/Mari/Shelves/Brad's New Brushes/gilaHide
+/Mari/Shelves/Brad's New Brushes/griddle
+/Mari/Shelves/Brad's New Brushes/iguanodon
+/Mari/Shelves/Brad's New Brushes/jackFrost
+/Mari/Shelves/Brad's New Brushes/mazeRing
+/Mari/Shelves/Brad's New Brushes/membranez
+/Mari/Shelves/Brad's New Brushes/misterAmoeba
+/Mari/Shelves/Brad's New Brushes/moleAttack
+/Mari/Shelves/Brad's New Brushes/oldScuffs
+/Mari/Shelves/Brad's New Brushes/oldShipyard
+/Mari/Shelves/Brad's New Brushes/retinal
+/Mari/Shelves/Brad's New Brushes/sizzleFest
+/Mari/Shelves/Brad's New Brushes/sphereSewer
+/Mari/Shelves/Brad's New Brushes/stretchedPores
+/Mari/Shelves/Brad's New Brushes/terra2
+/Mari/Shelves/Brad's New Brushes/tongueLash
+/Mari/Shelves/Brad's New Brushes/wellingtonRain
+/Mari/Shelves/Brad's New Brushes/wiggleWorms
+/Mari/Shelves/Hard Surface Brushes/OilyDripStain
+/Mari/Shelves/Hard Surface Brushes/SpecBreaker
+/Mari/Shelves/Hard Surface Brushes/crackSplat
+/Mari/Shelves/Hard Surface Brushes/dirtyDrip
+/Mari/Shelves/Hard Surface Brushes/metalReveal
+/Mari/Shelves/Hard Surface Brushes/metalScratch
+/Mari/Shelves/Hard Surface Brushes/rustyBlob
+/Mari/Shelves/Hard Surface Brushes/scuff001
+/Mari/Shelves/Organic Brushes/FilthyAirbrush
+/Mari/Shelves/Organic Brushes/MrAnderson
+/Mari/Shelves/Organic Brushes/SUPERsoftie
+/Mari/Shelves/Organic Brushes/StuccoLite
+/Mari/Shelves/Organic Brushes/birdFoot
+/Mari/Shelves/Organic Brushes/broadWrinkle
+/Mari/Shelves/Organic Brushes/cottonCandy
+/Mari/Shelves/Organic Brushes/crowsfeetWrinkle
+/Mari/Shelves/Organic Brushes/denseFreckle
+/Mari/Shelves/Organic Brushes/dinoSkin
+/Mari/Shelves/Organic Brushes/dirtyAirbrush
+/Mari/Shelves/Organic Brushes/fingerprint
+/Mari/Shelves/Organic Brushes/fingerprints
+/Mari/Shelves/Organic Brushes/fishEgg
+/Mari/Shelves/Organic Brushes/furryLine
+/Mari/Shelves/Organic Brushes/fuzzyWorm
+/Mari/Shelves/Organic Brushes/fuzzyWrinkle
+/Mari/Shelves/Organic Brushes/geckoSkin
+/Mari/Shelves/Organic Brushes/ginBlossom
+/Mari/Shelves/Organic Brushes/hippoSkin
+/Mari/Shelves/Organic Brushes/hives
+/Mari/Shelves/Organic Brushes/ironfilings
+/Mari/Shelves/Organic Brushes/laceyLoops
+/Mari/Shelves/Organic Brushes/lightFreckle
+/Mari/Shelves/Organic Brushes/looseEdge
+/Mari/Shelves/Organic Brushes/mottledSkinpattern_1
+/Mari/Shelves/Organic Brushes/niceSpeckle
+/Mari/Shelves/Organic Brushes/noisyHue
+/Mari/Shelves/Organic Brushes/octoskin
+/Mari/Shelves/Organic Brushes/organicFlesh
+/Mari/Shelves/Organic Brushes/pepper
+/Mari/Shelves/Organic Brushes/pillowySmudge
+/Mari/Shelves/Organic Brushes/powder
+/Mari/Shelves/Organic Brushes/puffypompom
+/Mari/Shelves/Organic Brushes/reptileScale
+/Mari/Shelves/Organic Brushes/rhinoWrinkle
+/Mari/Shelves/Organic Brushes/roundFreckle
+/Mari/Shelves/Organic Brushes/roundScale
+/Mari/Shelves/Organic Brushes/sand
+/Mari/Shelves/Organic Brushes/sandPaper
+/Mari/Shelves/Organic Brushes/sandblast
+/Mari/Shelves/Organic Brushes/sexyOily
+/Mari/Shelves/Organic Brushes/skin2
+/Mari/Shelves/Organic Brushes/sloppyLine
+/Mari/Shelves/Organic Brushes/softTeslaCoil
+/Mari/Shelves/Organic Brushes/softTrench
+/Mari/Shelves/Organic Brushes/softurtle
+/Mari/Shelves/Organic Brushes/specScuff
+/Mari/Shelves/Organic Brushes/sponge1
+/Mari/Shelves/Organic Brushes/sponge2
+/Mari/Shelves/Organic Brushes/sponge3
+/Mari/Shelves/Organic Brushes/sponge4
+/Mari/Shelves/Organic Brushes/sponge5
+/Mari/Shelves/Organic Brushes/stitching
+/Mari/Shelves/Organic Brushes/stormCloud
+/Mari/Shelves/Organic Brushes/tRex
+/Mari/Shelves/Organic Brushes/theSnitch
+/Mari/Shelves/Organic Brushes/thickfreck_1
+/Mari/Shelves/Organic Brushes/toughSilhouette
+/Mari/Shelves/Organic Brushes/uniformSplatSmall
+/Mari/Shelves/Organic Brushes/vascularVeinage
+/Mari/Shelves/Organic Brushes/velvetTouch
+/Mari/Shelves/Organic Brushes/watercolor
+/Mari/Shelves/Organic Brushes/wateryfreckle
+/Mari/Shelves/Organic Brushes/widespack
+/Mari/Tools/Color/Color Popup
+/Mari/Tools/Color/Eye Dropper
+/Mari/Tools/Decrease Aspect
+/Mari/Tools/Decrease Radius
+/Mari/Tools/Decrease Rotation
+/Mari/Tools/Default Brushes/Blur
+/Mari/Tools/Default Brushes/Clone Stamp
+/Mari/Tools/Default Brushes/Eraser
+/Mari/Tools/Default Brushes/Gradient
+/Mari/Tools/Default Brushes/Paint
+/Mari/Tools/Default Brushes/Paint Through
+/Mari/Tools/Default Brushes/Vector Paint
+/Mari/Tools/Descrease Opacity
+/Mari/Tools/General/Channel Popup
+/Mari/Tools/General/Hide Widgets
+/Mari/Tools/General/Image Popup
+/Mari/Tools/General/Marquee Select Tool
+/Mari/Tools/General/Mouse Gestures
+/Mari/Tools/General/Pan Object
+/Mari/Tools/General/Pie Selector
+/Mari/Tools/General/Pinup
+/Mari/Tools/General/Scrub
+/Mari/Tools/General/Select
+/Mari/Tools/General/Shelf Popup
+/Mari/Tools/General/Slerp
+/Mari/Tools/General/Towbrush
+/Mari/Tools/General/Transform Paint
+/Mari/Tools/General/Vector Inspector
+/Mari/Tools/General/Warp
+/Mari/Tools/General/Zoom Paint Buffer
+/Mari/Tools/Increase Aspect
+/Mari/Tools/Increase Opacity
+/Mari/Tools/Increase Radius
+/Mari/Tools/Increase Rotation
+/Mari/Tools/Marquee Select/Clear Marquee Selection
+/Mari/Tools/Marquee Select/Invert Marquee Selection
+/Mari/Tools/Marquee Select/Reset Marquee Transform
+/Mari/Tools/Navigation/Orbit
+/Mari/Tools/Navigation/Orbit All
+/Mari/Tools/Navigation/Orbit Disabled
+/Mari/Tools/Navigation/Orbit X
+/Mari/Tools/Navigation/Orbit Y
+/Mari/Tools/Navigation/Pan
+/Mari/Tools/Navigation/Pan All
+/Mari/Tools/Navigation/Pan Disabled
+/Mari/Tools/Navigation/Pan X
+/Mari/Tools/Navigation/Pan Y
+/Mari/Tools/Navigation/Reset Navigation
+/Mari/Tools/Navigation/Roll
+/Mari/Tools/Navigation/Roll Disabled
+/Mari/Tools/Navigation/Roll Enabled
+/Mari/Tools/Navigation/Snap 45 Degrees
+/Mari/Tools/Navigation/Snap 90 Degrees
+/Mari/Tools/Navigation/Snap Angle Disabled
+/Mari/Tools/Navigation/Zoom
+/Mari/Tools/Navigation/Zoom Disabled
+/Mari/Tools/Navigation/Zoom Enabled
+/Mari/Tools/Toggle Brushes
+/Mari/Tools/Vector Inspector/Enable Vector Inspector
