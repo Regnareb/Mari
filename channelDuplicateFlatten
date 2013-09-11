@@ -1,0 +1,11 @@
+
+#Duplicate and flatten the Channel
+
+currentGeo = mari.geo.current()
+currentChan = currentGeo.currentChannel()
+currentChanName = currentChan.name()
+
+currentGeo.createDuplicateChannel(currentChan)
+
+currentChan.flatten()
+currentChan.setName(currentChanName + "_flattened")
