@@ -16,6 +16,7 @@
 /Mari/Actions/Redo
 /Mari/Actions/Run Script
 /Mari/Actions/Save Layout
+/Mari/Actions/Shader Console
 /Mari/Actions/Shortcuts
 /Mari/Actions/Toggle Palettes Visibility
 /Mari/Actions/Toolbars
@@ -178,6 +179,8 @@
 /Mari/Layers/Adjustment Stack/Hue Shift
 /Mari/Layers/Adjustment Stack/Invert
 /Mari/Layers/Adjustment Stack/Levels
+/Mari/Layers/Adjustment Stack/Linear To Log
+/Mari/Layers/Adjustment Stack/Log To Linear
 /Mari/Layers/Adjustment Stack/Luminosity
 /Mari/Layers/Adjustment Stack/Premultiply Alpha
 /Mari/Layers/Adjustment Stack/Remove Adjustment Stack
@@ -204,6 +207,8 @@
 /Mari/Layers/Adjustment/Hue Shift
 /Mari/Layers/Adjustment/Invert
 /Mari/Layers/Adjustment/Levels
+/Mari/Layers/Adjustment/Linear To Log
+/Mari/Layers/Adjustment/Log To Linear
 /Mari/Layers/Adjustment/Luminosity
 /Mari/Layers/Adjustment/Premultiply Alpha
 /Mari/Layers/Adjustment/Saturation
@@ -230,9 +235,9 @@
 /Mari/Layers/Fill/White
 /Mari/Layers/Fill/Wireframe
 /Mari/Layers/Flatten Layer Group
-/Mari/Layers/Flatten Mask Group
+/Mari/Layers/Flatten Mask Stack
 /Mari/Layers/Group Layers
-/Mari/Layers/Make Mask Group
+/Mari/Layers/Make Mask Stack
 /Mari/Layers/Make Shared Channel Current
 /Mari/Layers/Mask/Copy
 /Mari/Layers/Mask/Cut
@@ -274,6 +279,8 @@
 /Mari/Layers/Secondary Adjustment/Hue Shift
 /Mari/Layers/Secondary Adjustment/Invert
 /Mari/Layers/Secondary Adjustment/Levels
+/Mari/Layers/Secondary Adjustment/Linear To Log
+/Mari/Layers/Secondary Adjustment/Log To Linear
 /Mari/Layers/Secondary Adjustment/Luminosity
 /Mari/Layers/Secondary Adjustment/Premultiply Alpha
 /Mari/Layers/Secondary Adjustment/Remove Secondary Adjustment
@@ -295,6 +302,7 @@
 /Mari/Layers/Shaders/Copy
 /Mari/Layers/Shaders/Cut
 /Mari/Layers/Shaders/Duplicate Shader
+/Mari/Layers/Shaders/Force Update Shaders
 /Mari/Layers/Shaders/Paste
 /Mari/Layers/Shaders/Recreate System Shaders
 /Mari/Layers/Shaders/Remove Shader
@@ -306,6 +314,10 @@
 /Mari/Misc/Debug Visualization of Ptex Layout
 /Mari/Misc/Dump Actions
 /Mari/Misc/License
+/Mari/Onscreen Controls/Adjust Opacity
+/Mari/Onscreen Controls/Adjust Radius
+/Mari/Onscreen Controls/Adjust Rotation
+/Mari/Onscreen Controls/Adjust Squish
 /Mari/OpenColorIO/Clear LUT
 /Mari/OpenColorIO/Select Config
 /Mari/OpenColorIO/Select LUT
@@ -378,7 +390,10 @@
 /Mari/Palettes/Shaders
 /Mari/Palettes/Shelf
 /Mari/Palettes/Snapshots
+/Mari/Palettes/TDTool - Channel Maker
+/Mari/Palettes/TDTool - Stencil Loader
 /Mari/Palettes/Tool Properties
+/Mari/Palettes/UnProjectagosaure
 /Mari/Project/Close
 /Mari/Project/Create Example Project
 /Mari/Project/Lighting/Basic
@@ -454,11 +469,13 @@
 /Mari/Scripts/API Overview
 /Mari/Scripts/Asset Management
 /Mari/Scripts/Bake on New Layer
+/Mari/Scripts/Brush Loader (Mari 2.0)
 /Mari/Scripts/C API/Documentation
 /Mari/Scripts/C API/Open Examples Folder
 /Mari/Scripts/Change Camera to Orthographic
 /Mari/Scripts/Change Camera to Perspective
 /Mari/Scripts/Change Current Projector
+/Mari/Scripts/Channel Maker (Mari 2.0)
 /Mari/Scripts/Command Port
 /Mari/Scripts/Convert Channel
 /Mari/Scripts/Copy Patch Links
@@ -471,8 +488,9 @@
 /Mari/Scripts/Create Triplanar Projectors
 /Mari/Scripts/Create Vector Channels
 /Mari/Scripts/Custom LUT Filter Example
+/Mari/Scripts/Custom Shader API
 /Mari/Scripts/Delete All Snapshots
-/Mari/Scripts/Export Channels
+/Mari/Scripts/Export Image Sets
 /Mari/Scripts/Export Shelf
 /Mari/Scripts/Export for Maya
 /Mari/Scripts/File LUT Filter Example
@@ -480,6 +498,7 @@
 /Mari/Scripts/Link Channel Changes
 /Mari/Scripts/Make Tools Menu
 /Mari/Scripts/Manage Snapshots
+/Mari/Scripts/Module Maker (Mari 2.0)
 /Mari/Scripts/Move to Camera Position
 /Mari/Scripts/NukeBridge/Help
 /Mari/Scripts/NukeBridge/Import Projection
@@ -512,6 +531,11 @@
 /Mari/Scripts/Python/Documentation
 /Mari/Scripts/Python/Open Examples Folder
 /Mari/Scripts/Readme
+/Mari/Scripts/Register Custom Adjustment Layer
+/Mari/Scripts/Register Custom Diffuse Shader
+/Mari/Scripts/Register Custom Procedural Layer
+/Mari/Scripts/Register Custom Specular Shader
+/Mari/Scripts/Register Custom Standalone Shader
 /Mari/Scripts/Reimport Current Paintable Layer
 /Mari/Scripts/Resource Info
 /Mari/Scripts/Restore Filter Stack
@@ -520,6 +544,7 @@
 /Mari/Scripts/Show Console
 /Mari/Scripts/Snapshot All Channels
 /Mari/Scripts/Snapshot Current Channel
+/Mari/Scripts/Stencil Loader (Mari 2.0)
 /Mari/Shelves/Basic Brushes/0
 /Mari/Shelves/Basic Brushes/100
 /Mari/Shelves/Basic Brushes/25
