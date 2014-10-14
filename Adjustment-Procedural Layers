@@ -1,0 +1,109 @@
+
+Adjustment Type 
+mari.geo.current().currentChannel().adjustmentLayerTypeList()
+
+Filter/Brightness
+Filter/Brightness Lookup
+Filter/Clamp
+Filter/Color Balance
+Filter/Color Lookup
+Filter/Color Switch
+Filter/Color To Mask
+Filter/Contrast
+Filter/Copy Channel
+Filter/Custom/Cavity from Tangent Space Normal
+Filter/Custom/ColorRange to Mask
+Filter/Custom/Grade+
+Filter/Custom/Normal Map Intensity
+Filter/Custom/Set Range
+Filter/Custom/Threshold
+Filter/Custom/Vibrance
+Filter/Gamma
+Filter/Grade
+Filter/HSL
+Filter/HSV
+Filter/Height As Normal
+Filter/Hue Shift
+Filter/Invert
+Filter/Levels
+Filter/Linear To Log
+Filter/Log To Linear
+Filter/Luminosity
+Filter/Premultiply Alpha
+Filter/Saturation
+Filter/Scale
+Filter/Set Value
+Filter/Shuffle
+Filter/Tangent To Screen
+Filter/Tangent To World
+Filter/World To Tangent
+Filter/sRGB2Linear
+Procedural/Misc/Flow
+
+
+
+
+
+Procedural Type 
+mari.geo.current().currentChannel().proceduralLayerTypeList()
+
+Basic/Color
+Basic/Constant
+Basic/Vector
+CustomProcedural/Environment/Custom/Cylindrical Projection
+CustomProcedural/Environment/Custom/Falloff Map
+CustomProcedural/Geometry/Custom/Axis Mask
+CustomProcedural/Geometry/Custom/Curvature
+CustomProcedural/Geometry/Custom/Custom Object Normal
+CustomProcedural/Procedural/Custom/FBM/Brownian Noise
+CustomProcedural/Procedural/Custom/FBM/FBM+
+CustomProcedural/Procedural/Custom/FBM/Multi FBM
+CustomProcedural/Procedural/Custom/FBM/Vec FBM
+CustomProcedural/Procedural/Custom/MultiFractal/Ridged Multi Noise
+CustomProcedural/Procedural/Custom/MultiFractal/Spotify
+CustomProcedural/Procedural/Custom/Noise/Legacy Cloud
+CustomProcedural/Procedural/Custom/Noise/Legacy Squiggle
+CustomProcedural/Procedural/Custom/Noise/Legacy Turbulence
+CustomProcedural/Procedural/Custom/Noise/Paintable Gabor Noise
+CustomProcedural/Procedural/Custom/Pattern/Camo
+CustomProcedural/Procedural/Custom/Pattern/Dots 2D
+CustomProcedural/Procedural/Custom/Pattern/Military Camo
+CustomProcedural/Procedural/Custom/Pattern/Squid Skin
+CustomProcedural/Procedural/Custom/Pattern/Stripes 2D
+CustomProcedural/Procedural/Custom/Pattern/SuperEllipse 2D
+CustomProcedural/Procedural/Custom/Pattern/SuperShape 2D
+CustomProcedural/Procedural/Custom/Pattern/Weave 2D
+CustomProcedural/Procedural/Custom/Perlin/Inigo Noise
+CustomProcedural/Procedural/Custom/Perlin/Legacy Perlin
+CustomProcedural/Procedural/Custom/Perlin/Perlin Noise
+CustomProcedural/Procedural/Custom/Perlin/Turbulence Noise
+CustomProcedural/Procedural/Custom/Voronoi/Cellular Noise
+CustomProcedural/Procedural/Custom/Voronoi/Legacy Cellular
+Environment/Cube Map
+Environment/Cube Map Projector
+Environment/Environment Light
+Environment/Sphere Map
+Environment/Sphere Map Projector
+Environment/Tri Planar Projection
+Geometry/Ambient Occlusion
+Geometry/Bitangent
+Geometry/Position
+Geometry/Surface Normal
+Geometry/Tangent
+Geometry/UDIM Mask
+Geometry/UV
+Geometry/UV Mask
+Procedural/Fractal/Cloud
+Procedural/Fractal/Turbulence
+Procedural/Misc/Flow
+Procedural/Misc/Oil
+Procedural/Noise/Cellular
+Procedural/Noise/Perlin
+Procedural/Noise/Squiggle
+Procedural/Pattern/Cube
+Procedural/Pattern/Object Space Linear Gradient
+Procedural/Pattern/Sphere
+Procedural/Pattern/Tiled
+Procedural/Pattern/UV Grid
+Procedural/Pattern/UV Linear Gradient
+Procedural/Plant/Wood
